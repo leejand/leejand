@@ -1,0 +1,93 @@
+body {
+    background: linear-gradient(120deg, #232526, #f2f2ee);
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+    background: rgba(34, 34, 34, 0.95);
+    border-radius: 16px;
+    box-shadow: 0 8px 32px 0 rgba(153, 142, 62, 0.37);
+    padding: 32px 24px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+header h1 {
+    font-size: 2.8rem;
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #bdbdbd;
+    margin-top: 8px;
+}
+
+section {
+    margin-bottom: 28px;
+}
+
+h2 {
+    color: #d1da91;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+.cert-placeholder {
+    background: #222;
+    border: 1px dashed #f2ffbf;
+    border-radius: 8px;
+    padding: 18px;
+    text-align: center;
+    color: #bdbdbd;
+}
+
+.contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contact li {
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+}
+
+a {
+    color: #d0e171;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.portfolio-btn-container {
+    text-align: center;
+    margin-bottom: 28px;
+}
+
+.portfolio-btn {
+    display: inline-block;
+    background: #d1da91;
+    color: #232526;
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s;
+    box-shadow: 0 2px 8px rgba(153, 142, 62, 0.15);
+}
+
+.portfolio-btn:hover {
+    background: #f2ffbf;
+    color: #232526;
+}
