@@ -31,7 +31,7 @@ clientes reales — de la idea al despliegue.
 
 ### 📫 Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucio-moreno-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-moreno-8b379a15a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luciomoreno0110@gmail.com)
 
 ---
