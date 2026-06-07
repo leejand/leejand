@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · Frontend Developer · Ing. Software
 
-Desarrollador web con experiencia real en producción. Fundé **ALMO DIGITAL**,
+Desarrollador web con experiencia real en producción. Fundé **ZIRO**,
 mi propia agencia donde diseño y desarrollo aplicaciones web completas para
 clientes reales — de la idea al despliegue.
 
