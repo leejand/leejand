@@ -1,6 +1,6 @@
 # Hola, soy Lucio Alejandro 👋
 
-### Frontend Developer · Full-Stack Developer · Ing. Software
+### Full-Stack Developer · Frontend Developer · Ing. Software
 
 Desarrollador web con experiencia real en producción. Fundé **ALMO DIGITAL**,
 mi propia agencia donde diseño y desarrollo aplicaciones web completas para
@@ -23,7 +23,7 @@ clientes reales — de la idea al despliegue.
 
 ### 🚀 En qué estoy trabajando
 
-- 🏗️ Proyectos web full-stack para clientes en **ALMO DIGITAL**
+- 🏗️ Proyectos web full-stack para clientes en **ZIRO.**
 - 📚 Finalizando mi carrera de Ingeniería de Software (grado marzo 2026)
 - 🤖 Aplicando IA al desarrollo para multiplicar productividad
 
